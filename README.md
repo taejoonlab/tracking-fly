@@ -1,7 +1,16 @@
 # Flytracking
 
-## Install
+## Disclaimer
 
+This package was initially developed by [Jiun Bae](https://github.com/jiunbae). You can find the original repo at https://github.com/jiunbae/tracking-fly.
+The author agreed to release this package without any condition, so the CC0-1.0 license was assigned here. 
+
+
+Please cite the following paper when you use this package:
+
+Jeong J, Kwon K, Geisseova TK, Lee J, Kwon T, Lim C. Drosulfakinin signaling encodes early-life memory for adaptive social plasticity. Elife. 2024 Dec 18;13:e103973. doi: 10.7554/eLife.103973. Epub ahead of print. [PMID: 39692597](https://pubmed.ncbi.nlm.nih.gov/39692597/) [journal site](https://elifesciences.org/articles/103973)
+
+## Install
 - [홈페이지](https://docs.conda.io/en/latest/miniconda.html)에서 `Miniconda3 Windows 64-bit` 설치
   - 설치할 때 기본설정으로 하되, Advanced Options에서 Add Miniconda3 to my PATH environment variable를 선택하여 설치하면 된다.
   - 설치한 후에 cmd 혹은 Windows terminal등을 열어서 `where conda`할때 경로가 출력되어야합니다.
